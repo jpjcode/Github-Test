@@ -2,3 +2,6 @@ Nuclear Pasta
 Rocks
 Uranium
 Sand
+Earth
+Dirt
+Stone
