@@ -6,3 +6,4 @@ Earth
 Dirt
 Stone
 Computer
+Astroid
