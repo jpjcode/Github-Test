@@ -7,3 +7,4 @@ Dirt
 Stone
 Computer
 Astroid
+Planet
